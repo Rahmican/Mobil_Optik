@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MOPS</string>
+    <string name="logo">Optik</string>
+    <string name="excel_yukle">Sınıf Listesi Yükle</string>
+    <string name="cevap_yukle">Cevap Anahtarı Yükle </string>
+    <string name="optik_tarat">Optik TARA</string>
+    <string name="cikti_al">ÇIKTI AL</string>
+    <string name="uyari">  </string>
+    <string name="anahtaradigir_hint">Anahtar Adını Girin</string>
+    <string name="anahtar_kaydet">KAYDET</string>
+    <string name="anahtar_listele">Anahtarları Listele</string>
+    <string name="cevap_sec">Cevap Anahtarı Seç</string>
+    <string name="cikti_ismi">Çıktının İsmini Giriniz</string>
+
+
+
+</resources>
