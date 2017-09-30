@@ -16,10 +16,6 @@ import android.content.Intent;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
-
-
-
 import java.io.IOException;
 
 
@@ -29,8 +25,6 @@ import jxl.Sheet;
 import jxl.Workbook;
 import jxl.WorkbookSettings;
 import jxl.read.biff.BiffException;
-
-
 
 
 
@@ -121,22 +115,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
     }}
 
-    /*private void reklamyukle(){
-
-        adView = new AdView(this);
-        adView.setAdSize(AdSize.BANNER);
-        adView.setAdUnitId(getString(R.string.AnaEkranBannerId));
-
-        LinearLayout linearLayout = (LinearLayout) findViewById(R.id.ana_banner);
-        linearLayout.addView(adView);
-
-        AdRequest adRequest = new AdRequest.Builder().build();
-
-        adView.loadAd(adRequest);
-
-
-
-    }*/
+ 
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
